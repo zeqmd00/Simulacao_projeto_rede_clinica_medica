@@ -8,7 +8,9 @@ OBJETIVO:
 Implementar a rede, fazer os dispositivos acessarem a internet e compartilhar arquivos entre si, escolher os equipamentos corretos, definir a topologia e criar um diagrama lógico da rede.
 
 
+
 SOFTWARE UTILIZADO: Cisco Packet tracer.
+
 
 
 INFRAESTRUTURA - JUSTIFICATIVA:
