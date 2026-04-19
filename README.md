@@ -3,13 +3,16 @@ SOBRE O PROJETO:
 O projeto simula a requisição de um profissional contratado para implementar uma rede em uma clínica médica. A rede deve estar funcional e todos os dispositivos devem acessar a Internet e compartilhem arquivos entre si. Foram considerados 3 computadores (Recepção, Consultório 1 e Consultório 2) e 1 impressora de rede.   
 
 
+
 OBJETIVO: 
 
 Implementar a rede, fazer os dispositivos acessarem a internet e compartilhar arquivos entre si, escolher os equipamentos corretos, definir a topologia e criar um diagrama lógico da rede.
 
 
 
+
 SOFTWARE UTILIZADO: Cisco Packet tracer.
+
 
 
 
